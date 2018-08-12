@@ -1,0 +1,2 @@
+# count-click
+game instant
